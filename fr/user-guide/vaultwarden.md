@@ -2,7 +2,7 @@
 title: Vaultwarden
 description: Gestionnaire de mot de passe
 published: true
-date: 2023-12-26T00:32:42.719Z
+date: 2023-12-26T00:33:07.370Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-26T00:05:29.521Z
@@ -25,6 +25,8 @@ Vaultwarden repose sur les clients [bitwarden](https://fr.wikipedia.org/wiki/Bit
 
 ### Connexion
 
+
+
 ## Aller plus loin
 
-Le guide officiel de vaultwarden/bitwarden se trouve [ici](https://bitwarden.com/help/).
+Le guide officiel de vaultwarden/bitwarden se trouve [ici](https://bitwarden.com/help/){target=_blank}.
