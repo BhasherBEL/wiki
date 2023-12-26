@@ -2,7 +2,7 @@
 title: Vaultwarden
 description: Gestionnaire de mot de passe
 published: true
-date: 2023-12-26T00:40:40.270Z
+date: 2023-12-26T00:41:24.632Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-26T00:05:29.521Z
@@ -31,6 +31,8 @@ Etant donné qu'il s'agit d'une version auto-hébergée, il est nécessaire de c
     <img src="/bitwarden-addon-1.png" alt="Bitwarden Addon 1" style="max-width: 45%; margin-right: 10px;"/>
     <img src="/bitwarden-addon-2.png" alt="Bitwarden Addon 2" style="max-width: 45%; margin-left: 10px;"/>
 </div>
+
+La connexion peut ensuite suivre le schéma classique; adresse e-mail, mot de passe, double authentification.
 
 
 ## Aller plus loin
