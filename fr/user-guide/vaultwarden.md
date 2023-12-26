@@ -2,7 +2,7 @@
 title: Vaultwarden
 description: Gestionnaire de mot de passe
 published: true
-date: 2023-12-26T00:22:36.985Z
+date: 2023-12-26T00:23:50.396Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-26T00:05:29.521Z
@@ -16,9 +16,12 @@ dateCreated: 2023-12-26T00:05:29.521Z
 
 ## Clients
 
-Vaultwarden repose sur les clients bitwaren. Il en existe pour de nombreuses platformes:
+Vaultwarden repose sur les clients [bitwarden](https://fr.wikipedia.org/wiki/Bitwarden). Il en existe pour de nombreuses platformes:
 - [Firefox add-on](https://addons.mozilla.org/firefox/addon/bitwarden-password-manager/)
 - [Chromium add-on](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb)
 - [Linux](https://vault.bitwarden.com/download/?app=desktop&platform=linux)
 - [Windows](https://vault.bitwarden.com/download/?app=desktop&platform=windows)
 - Et plein d'[autres](https://bitwarden.com/download/).
+
+### Connexion
+
