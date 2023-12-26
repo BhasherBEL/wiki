@@ -2,7 +2,7 @@
 title: Vaultwarden
 description: Gestionnaire de mot de passe
 published: true
-date: 2023-12-26T00:33:07.370Z
+date: 2023-12-26T00:38:37.735Z
 tags: 
 editor: markdown
 dateCreated: 2023-12-26T00:05:29.521Z
@@ -23,9 +23,13 @@ Vaultwarden repose sur les clients [bitwarden](https://fr.wikipedia.org/wiki/Bit
 - [Linux](https://vault.bitwarden.com/download/?app=desktop&platform=linux){target=_blank}
 - Et plein d'[autres](https://bitwarden.com/download/).{target=_blank}
 
-### Connexion
+### Connexion depuis l'extension
 
+Etant donné qu'il s'agit d'une version auto-hébergée, il est nécessaire de choisir la méthode "*auto-hebergée*/*self-hosted*". et se connecter au serveur `https://vault.bhasher.com`.
 
+![bitwarden-addon-1.png](/bitwarden-addon-1.png)
+
+![bitwarden-addon-2.png](/bitwarden-addon-2.png)
 
 ## Aller plus loin
 
